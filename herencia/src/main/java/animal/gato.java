@@ -17,7 +17,7 @@ public class gato extends animal{
     
     @Override
     public void comer(){
-        System.out.println("El gato come ratones"); 
+        System.out.println("El gato come ratones y purina"); 
     }
     
     @Override
